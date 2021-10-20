@@ -1,3 +1,6 @@
 todaysClass.out
 *.exe
 *.o
+.DS_Store
+*.plist
+*.out
